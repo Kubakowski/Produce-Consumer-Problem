@@ -1,0 +1,7 @@
+To compile the programs run these commands in a linux/unix terminal:
+gcc producer.c -pthread -lrt -o producer
+gcc consumer.c -pthread -lrt -o consumer
+To execute the programs run this command in a linux/unix terminal
+./producer & ./consumer &
+
+See example.txt for an example output of the programs

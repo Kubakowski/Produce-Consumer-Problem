@@ -1,0 +1,27 @@
+jakub@jakub-VirtualBox:~/Desktop/Producer_Consumer$ ./producer & ./consumer &
+[1] 1891
+[2] 1892
+jakub@jakub-VirtualBox:~/Desktop/Producer_Consumer$ 
+Producer ready to create 10 items.
+
+Consumer ready to receive 10 items.
+Item produced, there are now 1 item(s) in the table.
+Item produced, there are now 2 item(s) in the table.
+Item consumed, there are now 1 item(s) in the table.
+Item consumed, there are now 0 item(s) in the table.
+Item produced, there are now 1 item(s) in the table.
+Item consumed, there are now 0 item(s) in the table.
+Item produced, there are now 1 item(s) in the table.
+Item consumed, there are now 0 item(s) in the table.
+Item produced, there are now 1 item(s) in the table.
+Item produced, there are now 2 item(s) in the table.
+Item consumed, there are now 1 item(s) in the table.
+Item produced, there are now 2 item(s) in the table.
+Item consumed, there are now 1 item(s) in the table.
+Item consumed, there are now 0 item(s) in the table.
+Item produced, there are now 1 item(s) in the table.
+Item consumed, there are now 0 item(s) in the table.
+Item produced, there are now 1 item(s) in the table.
+Producer cleaned up!
+Item consumed, there are now 0 item(s) in the table.
+Consumer cleaned up!
